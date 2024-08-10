@@ -1,0 +1,4 @@
+customtkinter
+beautifulsoup4
+requests
+pandas
